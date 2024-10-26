@@ -16,4 +16,4 @@ Ce projet a pour objectif de fournir un guide pratique pour débuter avec Python
 
 
 ## Contribution
-Les contributions sont les bienvenues ! N'hésitez pas à soumettre des problèmes ou des d
+Les contributions sont les bienvenues !
